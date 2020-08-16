@@ -1,7 +1,7 @@
 ﻿
-## About Revenue Api Client
+## About Api Client
 
-Revenue Api Client is a console application that allows client-to-client flow communication. 
+ Api Client is a console application that allows client-to-client flow communication. 
 ..............................
 
 ## PROJECT DEPENDENCIES
@@ -47,7 +47,7 @@ Make sure you set the following:
 
 
 3. [Add Service URL] in other to make a request.
-	Eg: http://psl-app-vm3/Revenue/api/v1.0/products/GetAllProduct
+	Eg: http://melteck-app-vm3/Revenue/api/v1.0/products/GetAllProduct
 
 		var response = await persolClientApiCall
                 .GetAsync("url")
