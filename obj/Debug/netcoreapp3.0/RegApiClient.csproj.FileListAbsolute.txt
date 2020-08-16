@@ -1,0 +1,14 @@
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\bin\Debug\netcoreapp3.0\RegApiClient.exe
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\obj\Debug\netcoreapp3.0\RegApiClient.csprojAssemblyReference.cache
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\obj\Debug\netcoreapp3.0\RegApiClient.AssemblyInfoInputs.cache
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\obj\Debug\netcoreapp3.0\RegApiClient.AssemblyInfo.cs
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\bin\Debug\netcoreapp3.0\RegApiClient.deps.json
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\bin\Debug\netcoreapp3.0\RegApiClient.runtimeconfig.json
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\bin\Debug\netcoreapp3.0\RegApiClient.runtimeconfig.dev.json
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\bin\Debug\netcoreapp3.0\RegApiClient.dll
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\bin\Debug\netcoreapp3.0\RegApiClient.pdb
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\bin\Debug\netcoreapp3.0\IdentityModel.dll
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\obj\Debug\netcoreapp3.0\RegApiClient.csproj.CopyComplete
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\obj\Debug\netcoreapp3.0\RegApiClient.dll
+C:\Users\Plawer.PERSOLGH\source\repos\RegApiClient\RegApiClient\obj\Debug\netcoreapp3.0\RegApiClient.pdb
